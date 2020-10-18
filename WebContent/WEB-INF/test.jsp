@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>되는건가</h1>
+	<h1>수정</h1>
 </body>
 </html>
